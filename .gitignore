@@ -1,0 +1,5 @@
+# Only track the two selected folders and this configuration.
+/*
+!/通识阅读/
+!/templater/
+!/.gitignore
